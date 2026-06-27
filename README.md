@@ -89,7 +89,7 @@ Este projeto foi desenvolvido para praticar o desenvolvimento mobile com Flutter
 
 ## 👨‍💻 Desenvolvedor
 
-**Nicol**
+**Nicolas**
 
 Desenvolvedor Mobile em formação, estudando Dart e Flutter e buscando criar aplicações modernas e escaláveis.
 
