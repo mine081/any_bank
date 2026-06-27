@@ -93,7 +93,7 @@ Este projeto foi desenvolvido para praticar o desenvolvimento mobile com Flutter
 
 Desenvolvedor Mobile em formação, estudando Dart e Flutter e buscando criar aplicações modernas e escaláveis.
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/mine081
 
 ---
 
