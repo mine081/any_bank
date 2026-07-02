@@ -1,21 +1,21 @@
 # 💳 Any Bank
 
-Um aplicativo bancário desenvolvido com Flutter como projeto de estudos, focado em oferecer uma interface moderna, intuitiva e uma boa experiência para o usuário.
+A banking application developed with Flutter as a learning project, focused on delivering a modern, intuitive interface and an excellent user experience.
 
-## 📱 Funcionalidades
+## 📱 Features
 
-- 👤 Cadastro e login de usuários
-- 💰 Visualização de saldo
-- 📊 Histórico de transações
-- 💸 Transferências entre contas
-- 💳 Gerenciamento de cartões
-- 🔒 Interface segura e responsiva
+- 👤 User registration and authentication
+- 💰 Account balance overview
+- 📊 Transaction history
+- 💸 Money transfers between accounts
+- 💳 Card management
+- 🔒 Secure and responsive interface
 
-> *Algumas funcionalidades ainda estão em desenvolvimento.*
+> *Some features are still under development.*
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - Flutter
 - Dart
@@ -24,9 +24,9 @@ Um aplicativo bancário desenvolvido com Flutter como projeto de estudos, focado
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
-```
+```text
 lib/
  ├── models/
  ├── screens/
@@ -37,27 +37,27 @@ lib/
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Getting Started
 
-1. Clone o repositório
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seu-usuario/any_bank.git
+git clone https://github.com/your-username/any_bank.git
 ```
 
-2. Entre na pasta
+### 2. Navigate to the project directory
 
 ```bash
 cd any_bank
 ```
 
-3. Instale as dependências
+### 3. Install dependencies
 
 ```bash
 flutter pub get
 ```
 
-4. Execute o aplicativo
+### 4. Run the application
 
 ```bash
 flutter run
@@ -65,35 +65,35 @@ flutter run
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Project Goal
 
-Este projeto foi desenvolvido para praticar o desenvolvimento mobile com Flutter, explorando conceitos como:
+This project was created to practice mobile application development with Flutter while exploring concepts such as:
 
-- Gerenciamento de estado
-- Navegação entre telas
-- Componentização
-- Boas práticas de desenvolvimento
-- Consumo de APIs (em futuras versões)
+- State Management
+- Navigation
+- Widget-Based Architecture
+- Clean Code and Best Practices
+- API Integration (planned for future versions)
 
 ---
 
 ## 📸 Screenshots
 
-> Adicione aqui imagens do aplicativo.
+> Add screenshots of the application here.
 
-| Tela Inicial | Dashboard | Perfil |
-|--------------|-----------|--------|
+| Home Screen | Dashboard | Profile |
+|-------------|-----------|---------|
 | ![](assets/home.png) | ![](assets/dashboard.png) | ![](assets/profile.png) |
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Developer
 
 **Nicolas**
 
-Desenvolvedor Mobile em formação, estudando Dart e Flutter e buscando criar aplicações modernas e escaláveis.
+Aspiring Mobile Developer passionate about Dart and Flutter, focused on building modern, scalable, and high-quality mobile applications.
 
-GitHub: https://github.com/mine081
+**GitHub:** https://github.com/mine081
 
 ---
 
